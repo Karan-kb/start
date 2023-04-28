@@ -1,0 +1,19 @@
+package leo;
+
+import Java.awt.*;
+
+public class Login extends Frame{
+	Label lbluser, lblpass;
+	 
+	TextField txtuser, txtpass;
+	
+	Button btnlogin;
+}
+
+public Login() {
+	setLayout(new FlowLayout());
+}
+
+public class Task13 {
+
+}

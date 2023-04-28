@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;deck.Task5.java&apos; to &apos;derivedClass.java&apos;&#x0D;&#x0A;- Original project: &apos;derivedClass&apos;&#x0D;&#x0A;- Original element: &apos;deck.Task5.java&apos;&#x0D;&#x0A;- Renamed element: &apos;deck.derivedClass.java&apos;" description="Rename compilation unit &apos;Task5.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;deck{Task5.java" name="derivedClass.java" references="false" stamp="1670213934853" version="1.0"/>
+</session>
